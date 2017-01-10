@@ -1,0 +1,22 @@
+c:\users\sean\documents\visual studio 2015\Projects\Data_Mining_Assignment3\Data_Mining_Assignment3\bin\Debug\Data_Mining_Assignment3.exe.config
+c:\users\sean\documents\visual studio 2015\Projects\Data_Mining_Assignment3\Data_Mining_Assignment3\bin\Debug\Data_Mining_Assignment3.exe
+c:\users\sean\documents\visual studio 2015\Projects\Data_Mining_Assignment3\Data_Mining_Assignment3\bin\Debug\Data_Mining_Assignment3.pdb
+c:\users\sean\documents\visual studio 2015\Projects\Data_Mining_Assignment3\Data_Mining_Assignment3\obj\Debug\Data_Mining_Assignment3.csprojResolveAssemblyReference.cache
+c:\users\sean\documents\visual studio 2015\Projects\Data_Mining_Assignment3\Data_Mining_Assignment3\obj\Debug\Data_Mining_Assignment3.Properties.Resources.resources
+c:\users\sean\documents\visual studio 2015\Projects\Data_Mining_Assignment3\Data_Mining_Assignment3\obj\Debug\Data_Mining_Assignment3.csproj.GenerateResource.Cache
+c:\users\sean\documents\visual studio 2015\Projects\Data_Mining_Assignment3\Data_Mining_Assignment3\obj\Debug\Data_Mining_Assignment3.exe
+c:\users\sean\documents\visual studio 2015\Projects\Data_Mining_Assignment3\Data_Mining_Assignment3\obj\Debug\Data_Mining_Assignment3.pdb
+c:\users\sean\documents\visual studio 2015\Projects\Data_Mining_Assignment3\Data_Mining_Assignment3\obj\Debug\Data_Mining_Assignment3.Form1.resources
+c:\users\sean\documents\visual studio 2015\Projects\Data_Mining_Assignment3\Data_Mining_Assignment3\bin\Debug\data.csv
+C:\Users\Sean\Source\Repos\Percptron\Data_Mining_Assignment3\bin\Debug\data.csv
+C:\Users\Sean\Source\Repos\Percptron\Data_Mining_Assignment3\bin\Debug\Data_Mining_Assignment3.exe.config
+C:\Users\Sean\Source\Repos\Percptron\Data_Mining_Assignment3\bin\Debug\Data_Mining_Assignment3.exe
+C:\Users\Sean\Source\Repos\Percptron\Data_Mining_Assignment3\bin\Debug\Data_Mining_Assignment3.pdb
+C:\Users\Sean\Source\Repos\Percptron\Data_Mining_Assignment3\bin\Debug\ServiceStack.Text.dll
+C:\Users\Sean\Source\Repos\Percptron\Data_Mining_Assignment3\bin\Debug\ServiceStack.Text.xml
+C:\Users\Sean\Source\Repos\Percptron\Data_Mining_Assignment3\obj\Debug\Data_Mining_Assignment3.Form1.resources
+C:\Users\Sean\Source\Repos\Percptron\Data_Mining_Assignment3\obj\Debug\Data_Mining_Assignment3.Properties.Resources.resources
+C:\Users\Sean\Source\Repos\Percptron\Data_Mining_Assignment3\obj\Debug\Data_Mining_Assignment3.csproj.GenerateResource.Cache
+C:\Users\Sean\Source\Repos\Percptron\Data_Mining_Assignment3\obj\Debug\Data_Mining_Assignment3.exe
+C:\Users\Sean\Source\Repos\Percptron\Data_Mining_Assignment3\obj\Debug\Data_Mining_Assignment3.pdb
+C:\Users\Sean\Source\Repos\Percptron\Data_Mining_Assignment3\obj\Debug\Data_Mining_Assignment3.csprojResolveAssemblyReference.cache
